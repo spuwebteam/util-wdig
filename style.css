@@ -1,0 +1,91 @@
+body {
+	font-family: Roboto, sans-serif;
+}
+
+.hasChildren > a > .fa.fa-chevron-circle-down {
+	display: inline;
+	float: right;
+}
+
+#nav {
+	position: relative;
+	margin: 0 auto;
+	width: 300px;
+	height: 1650px;
+	overflow: hidden;
+}
+
+#nav a {
+	text-decoration: none;
+	color: #fff;
+	display: block;
+	padding: 10px;
+}
+
+#nav ul {
+	width:300px;
+	padding: 0px;
+	position:absolute;
+	top:0px;
+	left:350px;
+	transition: .3s all;
+}
+
+#nav li {
+	list-style: none;
+	font-weight:700;
+	border-bottom:2px solid #000;
+}
+
+#nav #start {
+	left:0px;
+}
+
+#nav #start:hover {
+	cursor: pointer;
+}
+
+#nav .active {
+	left:0px;
+}
+
+#nav > ul {
+	background: black;
+}
+
+#nav > ul > li > a:hover {
+	background: gray;
+}
+
+#nav ul > li > ul {
+	background: #c9101c;
+	margin-top:41px;
+}
+
+#nav ul > li > ul > li > a:hover {
+	background: #ff6666;
+}
+
+#nav ul > li > ul > li > ul {
+	background: #1129ff;
+}
+
+#nav ul > li > ul > li > ul> li > a:hover {
+	background: #4457ff;
+}
+
+#nav ul > li > ul > li > ul > li > ul {
+	background: #42bc34;
+}
+
+#nav ul > li > ul > li > ul > li > ul > li > a:hover {
+	background: #75c46b;
+}
+
+#nav ul > li > ul > li > ul > li > ul > li > ul {
+	background: #c427b4;
+}
+
+#nav ul > li > ul > li > ul > li > ul > li > ul > li > a:hover {
+	background: #ba60b1;
+}
