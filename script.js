@@ -41,12 +41,14 @@ $(document).ready(function(){
 	    	//follows href
 	    }
 
-		if ($(this).siblings('ul').hasClass('active')) { //clicking on previous parent to get its children
+    	if ($(this).siblings('ul').hasClass('active')) { //clicking on previous parent to get its children
 			$(this).siblings('ul').children('li').find('ul').removeClass('active'); // find all ul below and remove class active
+            $(this).siblings('ul').find('li').removeClass('selected'); // removes selected color from all parent li 
 			$(this).siblings('ul').children('li').slideDown();
 		} else { // clicking on li to bring its children
 			$(this).siblings('ul').children('li').hide(); // hide li's that are about to slide down
 			$(this).siblings('ul').addClass('active');
+            $(this).closest('li').addClass('selected'); //adds selected color to clicked li
 			$(this).closest('li').siblings('li').hide(); // hide siblings of clicked li
 			$(this).siblings('ul').children('li').slideDown(); // slide down children of clicked li
 		}
