@@ -12,6 +12,10 @@ body {
 	background: #000;
 }
 
+.top {
+	background: #555;
+}
+
 #nav {
 	position: relative;
 	margin: 0 auto;
@@ -54,11 +58,11 @@ body {
 }
 
 #nav > ul {
-	background: black;
+	background: #000;
 }
 
 #nav > ul > li > a:hover {
-	background: gray;
+	background: #777;
 }
 
 #nav ul > li > ul {
