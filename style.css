@@ -58,34 +58,26 @@ body {
 }
 
 #nav ul > li > ul {
-	background: #c9101c;
+	background: #005400;
 	margin-top:41px;
 }
 
 #nav ul > li > ul > li > a:hover {
-	background: #ff6666;
+	background: #008400;
 }
 
 #nav ul > li > ul > li > ul {
-	background: #1129ff;
+	background: #005400;
 }
 
 #nav ul > li > ul > li > ul> li > a:hover {
-	background: #4457ff;
+	background: #008400;
 }
 
 #nav ul > li > ul > li > ul > li > ul {
-	background: #42bc34;
+	background: #005400;
 }
 
 #nav ul > li > ul > li > ul > li > ul > li > a:hover {
-	background: #75c46b;
-}
-
-#nav ul > li > ul > li > ul > li > ul > li > ul {
-	background: #c427b4;
-}
-
-#nav ul > li > ul > li > ul > li > ul > li > ul > li > a:hover {
-	background: #ba60b1;
+	background: #008400;
 }
