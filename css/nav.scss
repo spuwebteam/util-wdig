@@ -1,0 +1,86 @@
+//colors
+$white: white;
+$black: #000;
+$color_fuscous_gray_approx: #555;
+$color_tapa_approx: #777;
+$color_san_felix_approx: #005400;
+$color_japanese_laurel_approx: #008400;
+
+//fonts
+$font_0: Roboto;
+$font_1: sans-serif;
+
+body {
+    font-family: $font_0, $font_1;
+    color: $white;
+    font-size: 14pt;
+}
+.selected {
+    background: $black;
+}
+.top {
+    background: $color_fuscous_gray_approx;
+}
+#nav {
+    position: relative;
+    margin-left: 2em;
+    width: 425px;
+    height: 1650px;
+    overflow: hidden;
+    a {
+        text-decoration: none;
+        color: $white;
+        display: block;
+        padding: 10px 20px;
+    }
+    ul {
+        width: 100%;
+        padding: 0;
+        position: absolute;
+        top: 0;
+        left: 550px;
+        > li {
+            ul {
+                background: $color_san_felix_approx;
+                margin-top: 44px;
+            }
+            > ul li > a:hover {
+                background: $color_japanese_laurel_approx;
+            }
+        }
+    }
+    li {
+        list-style: none;
+        font-weight: 700;
+        border-bottom: 2px solid $black;
+    }
+    #start {
+        left: 0;
+        &:hover {
+            cursor: pointer;
+        }
+    }
+    .active {
+        left: 0;
+    }
+    > ul {
+        background: $black;
+        > li > a:hover {
+            background: $color_tapa_approx;
+        }
+    }
+}
+@media screen and (max-width: 480px) {
+    #nav {
+        width: 100%;
+        position: relative;
+        margin: 0 auto;
+        ul {
+            width: 100%;
+        }
+    }
+}
+.hasChildren > a > .fa.fa-chevron-circle-down {
+    display: inline;
+    float: right;
+}
