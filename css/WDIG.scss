@@ -1,7 +1,12 @@
 //colors
 $white: #fff;
-$color_masala_approx: rgb(60, 60, 60);
-$color_mountain_mist_approx: rgb(150,150,150);
+$black: #000;
+$color_masala_approx: #3c3c3c;
+$color_mountain_mist_approx: #969696;
+$color_fuscous_gray_approx: #555;
+$color_tapa_approx: #777;
+$color_san_felix_approx: #005400;
+$color_japanese_laurel_approx: #008400;
 
 h2 {
     font-size: 2em;
@@ -24,11 +29,11 @@ a.btn {
     }
 }
 
-#content {
+#wdigContent {
     padding-bottom: 2em;
     .headergap {
-        margin-top: 30px;
-        margin-bottom: 30px;
+        margin-top: 26px;
+        margin-bottom: 26px;
     }
     .icon {
         width: 4.1em;
@@ -41,11 +46,12 @@ a.btn {
 }
 
 #promo {
+    width: 100%;
+    clear: both;
     p {
         background-color: $color_masala_approx;
         padding: 15px 0;
         margin-bottom: 0;
-        font-size: 1.4285em;
     }
 
     img {
@@ -54,121 +60,7 @@ a.btn {
     }
 }
 
-@media(max-width: 480px) {
-    #lutNav {
-        width: 100%;
-        position: relative;
-        margin: 0 auto;
-        ul {
-            width: 100%;
-        }
-    }
-}
-
-@media(min-width: 544px) {
-    body {
-        font-size: 18px;
-    }
-
-    #promo {
-        p {
-            font-size: 1.8em;
-        }
-    }
-    
-}
-@media(min-width: 768px) {
-    #content {
-        #mainpic {
-            position: absolute;
-            top: 200px;
-            left: 430px;
-            width: 15em;
-        }
-
-        #pic-width {
-            width: 60%;
-        }
-    }
-
-    #promo {
-        img {
-            display: block;
-        }
-        p {
-            font-size: 1em;
-        }
-    }
-}
-
-@media(min-width: 992px) {
-    #content {
-        #mainpic {
-        left: 475px;
-        width: 20em;
-        }
-
-        #pic-width {
-            width: 55%;
-        }
-    }
-
-    #promo {
-        p {
-            font-size: 1.4285em;
-        }
-    }
-    
-}
-@media(min-width: 1200px) {
-    body {
-        font-size: 22px;
-    }
-
-    #content {
-        .headergap {
-            margin-top: 40px;
-            margin-bottom: 40px;
-        }
-
-        #mainpic {
-            left: 600px;
-            width: 23em;
-        }
-    }
-
-    #promo {
-        p {
-            font-size: 1.8em;
-        }
-    }
-}
-
-//colors
-$black: #000;
-$color_fuscous_gray_approx: #555;
-$color_tapa_approx: #777;
-$color_san_felix_approx: #005400;
-$color_japanese_laurel_approx: #008400;
-
-.selected {
-    background: $black;
-}
-.top {
-    background: $color_fuscous_gray_approx;
-}
-
-.hasChildren > a > .fa.fa-chevron-circle-down {
-    display: inline;
-    float: right;
-}
-
-#lutNav {
-    position: relative;
-    margin-left: 2em;
-    width: 425px;
-    height: 1650px;
-    overflow: hidden;
+#wdigNav {
     a {
         text-decoration: none;
         color: $white;
@@ -178,13 +70,13 @@ $color_japanese_laurel_approx: #008400;
     ul {
         width: 100%;
         padding: 0;
-        position: absolute;
         top: 0;
-        left: 550px;
         > li {
             ul {
                 background: $color_san_felix_approx;
-                margin-top: 41px;
+            }
+            > ul > li {
+                display: none;
             }
             > ul li > a:hover {
                 background: $color_japanese_laurel_approx;
@@ -201,14 +93,75 @@ $color_japanese_laurel_approx: #008400;
         &:hover {
             cursor: pointer;
         }
+        .selected {
+            background: $black;
+        }
+        .top {
+            background: $color_fuscous_gray_approx;
+        }
+        .hasChildren > a > .fa.fa-chevron-circle-down {
+            display: inline;
+            float: right;
+            margin-top: 3px;
+        }
+        .active {
+            left: 0;
+        }
+        > ul {
+            background: $black;
+            > li > a:hover {
+                background: $color_tapa_approx;
+            }
+        }
     }
-    .active {
-        left: 0;
+}
+
+@media(min-width: 544px) {
+    #wdigContent {
+        #mainpic {
+            position: absolute;
+            top: 25%;
+            left: 60%;
+            width: 12em;
+        }
+
+        #pic-width {
+            width: 60%;
+        }
     }
-    > ul {
-        background: $black;
-        > li > a:hover {
-            background: $color_tapa_approx;
+}
+
+@media(min-width: 768px) {
+    #wdigContent {
+        #mainpic {
+            width: 13em;
+        }
+    }
+}
+
+@media(min-width: 992px) {
+    #wdigContent {
+        #mainpic {
+            left: 55%;
+            width: 18em;
+        }
+        #pic-width {
+            width: 55%;
+        }
+        #promo {
+            img {
+                display: block;
+            }
+        }
+    }
+
+    
+}
+
+@media(min-width: 1200px) {
+    #wdigContent {
+        #mainpic {
+            width: 21em;
         }
     }
 }
