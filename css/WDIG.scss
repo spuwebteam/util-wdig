@@ -15,7 +15,14 @@ h2 {
 h3 {
     font-size: 1.4285em;
 }
-
+.no-js {
+    #wdigNav #wdigContent #autoComplete {
+        display: none;
+    }
+    #siteMap {
+        display: block;
+    }
+}
 a.btn {
     color: $white;
     display: block;
@@ -31,7 +38,9 @@ a.btn {
 
 #wdigContent {
     padding-bottom: 2em;
-    .headergap {
+    .garbage, .recycle, .food,
+    .curb, .dropoff, .specHand,
+    .binSide {
         margin-top: 26px;
         margin-bottom: 26px;
     }
@@ -41,6 +50,7 @@ a.btn {
         margin-right: .8em;
     }
     #mainpic {
+        float: right;
         width: 100%;
     }
 }
@@ -61,6 +71,7 @@ a.btn {
 }
 
 #wdigNav {
+    padding: 0;
     a {
         text-decoration: none;
         color: $white;
@@ -85,8 +96,8 @@ a.btn {
     }
     li {
         list-style: none;
-        font-weight: 700;
         border-bottom: 2px solid $black;
+        font-weight: 700;
     }
     #start {
         left: 0;
@@ -119,14 +130,7 @@ a.btn {
 @media(min-width: 544px) {
     #wdigContent {
         #mainpic {
-            position: absolute;
-            top: 25%;
-            left: 60%;
             width: 12em;
-        }
-
-        #pic-width {
-            width: 60%;
         }
     }
 }
@@ -142,11 +146,7 @@ a.btn {
 @media(min-width: 992px) {
     #wdigContent {
         #mainpic {
-            left: 55%;
             width: 18em;
-        }
-        #pic-width {
-            width: 55%;
         }
         #promo {
             img {

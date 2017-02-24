@@ -71,7 +71,7 @@ $(document).ready(function(){
             sib.find('li').removeClass('selected'); 
             // removes selected color from all parent li
             sibChild.find('li').hide();
-            sibChild.slideDown();
+            sibChild.show();
         } else { 
         // clicking on li to bring its children
             attrTrue;     
@@ -85,8 +85,8 @@ $(document).ready(function(){
             // adds selected color to clicked li
             close.siblings('li').hide(); 
             // hide siblings of clicked li
-            sibChild.slideDown(); 
-            // slide down children of clicked li
+            sibChild.show(); 
+            // show children of clicked li
         }
         $('#label').attr('aria-expanded', 'false'); 
         // always false on start over button
