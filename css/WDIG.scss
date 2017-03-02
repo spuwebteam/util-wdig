@@ -15,6 +15,46 @@ h2 {
 h3 {
     font-size: 1.4285em;
 }
+
+.garbage, .recycle, .food, .curb, .binSide, .dropoff, .caution, .hazard {
+    padding-left: 50px;
+    height: 40px;
+    line-height: 40px;
+    background-repeat: no-repeat;
+}
+
+.garbage {
+    background-image: url('/cs/groups/public/documents/document/3_037295.gif');
+}
+
+.recycle {
+    background-image: url('/cs/groups/public/documents/document/3_037296.gif');
+}
+
+.food {
+    background-image: url('/cs/groups/public/documents/document/3_037294.gif');
+}
+
+.curb {
+    background-image: url('/cs/groups/public/documents/document/3_037291.gif');
+}
+
+.binSide {
+    background-image: url('/cs/groups/public/documents/document/3_037297.gif');
+}
+
+.dropoff {
+    background-image: url('/cs/groups/public/documents/document/3_037292.gif');
+}
+
+.caution {
+    background-image: url('/cs/groups/public/documents/document/3_037290.gif');
+}
+
+.hazard {
+    background-image: url('/cs/groups/public/documents/document/3_037293.gif');
+}
+
 .no-js {
     #wdigNav #wdigContent #autoComplete {
         display: none;
@@ -38,12 +78,6 @@ a.btn {
 
 #wdigContent {
     padding-bottom: 2em;
-    .garbage, .recycle, .food,
-    .curb, .dropoff, .specHand,
-    .binSide {
-        margin-top: 26px;
-        margin-bottom: 26px;
-    }
     .icon {
         width: 4.1em;
         float: left;
@@ -154,8 +188,6 @@ a.btn {
             }
         }
     }
-
-    
 }
 
 @media(min-width: 1200px) {
