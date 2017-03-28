@@ -118,7 +118,13 @@ a.btn {
     margin-bottom: 10px;
     line-height: 2.428571em;
     #items {
-        width: 60.7%;
+        width: 60.2%;
+        min-height: 40px;
+        line-height: 34px;
+    }
+    #goButton {
+        padding: 0px 10px;
+        min-height: 40px;
     }
 }
 
@@ -236,7 +242,7 @@ a.btn {
     }
     #wdigSearch {
         #items {
-            width: 77.8%;
+            width: 77.5%;
         }
     }
 }
@@ -249,7 +255,7 @@ a.btn {
     }
     #wdigSearch {
         #items {
-            width: 84.1%;
+            width: 83.9%;
         }
     }
 }
@@ -267,7 +273,7 @@ a.btn {
     }
     #wdigSearch {
         #items {
-            width: 83.6%;
+            width: 83.4%;
         }
     }
 }
@@ -280,7 +286,7 @@ a.btn {
     }
     #wdigSearch {
         #items {
-            width: 84.8%;
+            width: 84.6%;
         }
     }
 }
