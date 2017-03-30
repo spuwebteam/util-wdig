@@ -1,1 +1,1 @@
-sass --watch .:. --style compressed
+sass --watch .:.
