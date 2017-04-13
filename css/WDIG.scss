@@ -7,6 +7,10 @@ $color_dark_blue_gray: #37474F;
 $color_dark_gray: #777;
 $color_masala_approx: #3c3c3c;
 
+#footer {
+    margin-top: .5em;
+}
+
 h2 {
     font-size: 2em;
 }
@@ -113,6 +117,13 @@ a.btn {
     }
 }
 
+#wdigFooter {
+    margin-top: 100px;
+    p {
+        font-size: 16px;
+    }
+}
+
 #wdigSearch {
     margin-top: 20px;
     margin-bottom: 10px;
@@ -120,7 +131,6 @@ a.btn {
     #items {
         width: 60.2%;
         min-height: 40px;
-        line-height: 34px;
     }
     #goButton {
         padding: 0px 10px;
@@ -154,6 +164,10 @@ a.btn {
     }
     p.alphabetList {
         text-align: center;
+        font-weight: 600;
+        line-height: 32px;
+        font-size: 24px;
+        letter-spacing: 3px;
     }
 }
 
@@ -256,6 +270,13 @@ a.btn {
     #wdigSearch {
         #items {
             width: 83.9%;
+        }
+    }
+    #wdigAZ {
+        p.alphabetList {
+            line-height: inherit;
+            font-size: inherit; 
+            letter-spacing: 2px;
         }
     }
 }
