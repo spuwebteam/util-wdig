@@ -1,6 +1,7 @@
 //colors
 $white: #fff;
 $black: #000;
+$darkish_red: #e00000;
 $color_light_blue_gray: #2e80a0;
 $color_blue_gray: #546E7A;
 $color_dark_blue_gray: #37474F;
@@ -9,6 +10,11 @@ $color_masala_approx: #3c3c3c;
 
 #footer {
     margin-top: .5em;
+}
+
+.btn {
+    vertical-align: top;
+    border-radius: 0;
 }
 
 h2 {
@@ -135,6 +141,11 @@ a.btn {
     #goButton {
         padding: 0px 10px;
         min-height: 40px;
+    }
+    #noResults{
+        font-size: 1.1em;
+        color: $darkish_red;
+        font-weight: 700;
     }
 }
 
