@@ -1,0 +1,796 @@
+2006768
+Acetylene Tanks
+Welding Gas Tanks
+3001330
+Ceiling Materials
+Ceiling Panels
+Ceiling Squares
+Ceiling Tiles
+Soundproofing
+2006764
+Pressurized Cans
+Spray Cans
+Spray Paint Cans
+3001590
+AC Unit
+Heat Pumps
+Heating Apparatus
+3001315
+Aluminum Pans
+Aluminum Scrap
+3001304
+Aluminum Sheet
+Aluminum Trays
+Foil
+Tin Foil
+Wine Bottle Foils
+Wine Foils
+3001420
+Ammo
+Assault Rifles
+Bottle Rockets
+Bullets
+Casings
+Firearms
+Firecrackers
+Fireworks
+Guns
+Handguns
+Mortars
+Munitions
+Pistol
+Revolver
+Rifles
+Shells
+Shotguns
+Shotgun Shells
+3001592
+Chest Freezer
+Freezers
+3001591
+Dish Washers
+Dryers
+Washers
+Washing MacHines
+2006663
+Carton With Plastic Spout
+Carton With Plastic Top
+Tetra Pak
+Carton With Spout
+3001597
+Burnt Charcoal
+Charcoal
+Coals
+3001332
+Aspahlt Shingles
+Roofing Materials
+Shingles
+Tab Shingle
+Tear Off Asphalt Shingles
+3001530
+Advil Bottles
+Iburporfen Bottles
+Medicine Bottles
+Pill Bottles
+Tylenol Bottles
+3001458
+Starters
+Transmissions
+3001489
+Paper Grocery Bags
+3001535
+Plastic Bags
+Plastic Grocery Bags
+To Go Bags
+3001538
+Vegetable Bags
+3001537
+Food Bags
+Plastic Food Bags
+3001287
+Drums 
+Oil Barrels
+Oil Drums
+3001427
+Disposable Batteries
+3001585
+Fitted Sheets
+Linens
+Pillow Cases
+Sheets
+1000083
+Plastic Trays
+3001293
+Aluminum Cans
+Beer Cans
+Cans
+Pop Cans
+Soda Cans
+Soda Pop Cans
+3001289
+Bikes
+Bike Chains
+Bike Parts
+Bike Tires
+Bike Wheels
+Handlebars
+3001519
+Hard Plastic Packaging
+Molded Plastic Packaging
+Rigid Plastic Packaging
+3001501
+Hardback Books
+Hardcover Books 
+Textbooks
+3001502
+Paperback Books
+Softcover Books
+3001371
+Bottle Caps
+Caps
+Jam Jar Lids
+Lids — Jar
+Jar Lids
+3001459
+Transmission Fluid 
+3001620
+Sticks
+Branches
+Brush
+Tree Clippings
+Tree Branches
+3001521
+Mop Buckets
+Pails
+3001294
+Soup Can Lids
+483
+Car Glass
+Car Window Glass
+Windshield Glass
+3001476
+Boxes
+Moving Boxes
+Packing Boxes
+3001475
+Corrugated Cardboard
+3001473
+Dirty Cardboard
+Greasy Cardboard
+Solied Cardboard
+3001474
+Waxed Cardboard
+3001586
+Padding
+3001470
+Cars
+SUVs
+Trucks
+3001569
+DVDs
+Floppies
+Floppy Disks
+Hard Disks
+3001365
+Cracker Boxes
+2006471
+Booster Seats
+Car Seats
+Child Booster Seats
+Child Safety Seats 
+Safety Seats
+3001540
+Potato Chip Bags
+Tortilla Chip Bags
+3001614
+Xmas Trees
+3001439
+Bleach
+Detergents
+Janitorial Supplies
+Toilet Bowl Cleaner
+Toilet Cleaner
+Window Cleaner
+3001571
+Radio Clocks
+3001587
+Sweaters
+Sweatshirts
+T Shirt
+Clothing
+Jackets
+Pants
+Polo Shirts
+Shirts
+Used Clothing
+Coats
+T-Shirts
+1000099
+Used Coffee Filters
+3001407
+Compostable Fork
+Compostable Knife
+Compostable Plate
+Compostable Spoon
+Compostable Spork
+Compostable Tray
+3001574
+Tablet Computer
+Laptops
+Tablets
+3001572
+Monitors
+Computer Screens
+Used Computer Monitors
+3001345
+Asphalt Chunks 
+Torn Up Asphalt
+Torn Up Concrete
+3001339
+Construction Debris
+Construction Garbage
+Construction Waste
+Mixed Construction Waste
+3001346
+Contaminated Dirt
+Contaminated Soil
+3001438
+Used Cooking Oil
+Vegetable Oil
+3001608
+Wine Stoppers
+3001615
+Planting Soil
+Potting Soil
+Soil
+3001560
+Adult Diapers
+Baby Diapers
+Diapers
+Huggies
+Nappies
+Pull Ups
+3001410
+Chalices
+Tumblers
+3001536
+Plastic Suit Bag
+3001334
+Drywall Debris
+Torn Out Walling
+Wall Debris
+3001335
+Air Duct
+Duct Work
+Heating Duct
+2006148
+Foam Egg Cartons
+496
+Paper Egg Cartons
+3001460
+Auto Engines
+Automobile Engines
+Automobiles
+Car Engines
+Car Motors
+Car Parts
+Carbureators
+Fuel Injectors
+Gas Tanks
+Gaskets
+Motors
+1000077
+Cd Players
+Copy MacHines
+CPUs
+Discarded Electronic Devices
+Electronic Waste
+Fax MacHines
+Iphones
+Mobile Phones
+Old Computers
+Old PCs
+PCs
+Record Player
+Xerox MacHines
+3001566
+Glasses Frames
+Frames
+3001412
+Glasses
+3001588
+Cloth
+Textiles
+Flat Sheets
+2000336
+Kleenexes
+Tissues
+Used Kleenexes
+Used Tissues
+3001581
+Bacon Grease
+Coconut Oil
+Crisco
+F.O.G.
+Fats
+Fog
+Greases
+Oils
+Olive Oil
+Peanut Oil
+Used Peanut Oil
+Used Sunflower Oil
+Used Vegetable Oil
+3001336
+Fiber Glass
+Filigree Glass
+Glass Thread
+3001461
+Emergency Flares
+Road Flares
+2006932
+Baby Wipes
+Disposable Wipes
+Wipes
+Biodegradable Wipes
+3001545
+Foam Boards
+Foam Packaging
+Foam Peanuts
+Mounting Foam
+Package Foam
+Packing Foam
+Packing Sheets
+Paper Faced Foam Boards
+Picture Framing Foam
+3001582
+Table Scraps
+Leftover Food
+Food Waste
+3001619
+Sod
+Clipped Grass
+3001617
+Garden Waste
+Leaf Piles
+Compost
+Douglas Fir
+Fallen Leaves
+Flowers
+Live Plants
+Noble Fir
+House Plant
+Potted Plants
+Yard Debris
+Yard Waste
+3001517
+Food Trays
+3001362
+Box for Frozen Food
+Frozen Food Container
+Frozen Food Packaging
+3001337
+Furnace Parts
+2006766
+Small Gas Canisters
+Small Gas Cans
+3001491
+Christmas Paper
+Wrapping Paper
+Glass — Broken
+Broken Glass
+Pieces of Broken Glass
+Glass Bottles & Jars
+Beer Bottles
+Bottles
+Glass Bottles
+Glass Jars
+Glass Shards
+Jam Jars
+Jars
+3001415
+Bathtubs
+Ceramic Household Items
+Ceramic Sinks
+Ceramics
+Bathroom Sinks
+3001441
+Adhesives
+Elmers Glue
+Glue Sticks
+Paste
+Super Glue
+Wood Glue
+3001318
+Gold 
+Precious Metals
+Silver
+3001317
+Brass
+Bronze
+3001504
+Birthday Cards
+Cards
+Greeting Card
+Holiday Cards
+3001310
+Awls
+Claw Hammer
+Hammers
+Needle Nose Pliers
+Pliers
+Roofing Hammer
+Screw Drivers
+Wrenches
+1000078
+Coffee Cups
+Starbucks Cups
+To Go Coffee Cups
+450
+9-Volt Batteries
+AA Batteries
+AAA Batteries
+Batteries
+Button Cell Batteries 
+C Batteries
+D Batteries
+Hearing Aid Battery
+Household Batteries
+Single Use Batteries
+447
+Mobile Phone Batteries
+446
+Laptop Batteries
+445
+Watch Batteries
+3001600
+Chairs
+Coffee Tables
+Couches
+Dining Room Tables
+Furniture
+Lazy Boy
+Love Seats
+Ottomans
+Recliners
+Sectional Couches
+Side Table
+Sofas
+Tables
+3001319
+Steel
+3001312
+Coins
+Necklaces
+Pendants
+Bracelets
+Earrings
+2006664
+Jugs of Juice
+Juice Jugs
+Cartons of Juice
+Sippy Boxes
+3001364
+Milk Jugs
+Jugs of Milk
+3001505
+Coupons
+3001325
+Ring of Keys
+3001484
+Detergent Boxes
+3001464
+Gas Lawn Mowers
+Gas Mowers
+Mowers
+Power Equipment
+Push Mowers
+1000098
+Coffee Cup Lids
+Coffee Lids
+Deli Lids
+Soda Lids
+Soft Drink Cup Lids
+408
+Fluorescent Light Bulbs
+Ceiling Lighting
+Ceiling Lights
+Fluorescent Tubes
+409
+Incandescent Light Bulbs
+2006779
+LED Light Bulbs
+2006778
+Christmas Lights
+Holiday Lights 
+Party Lights
+Xmas Lights
+3001354
+Boards
+Timber
+Dimensional Lumber
+Cut Lumber
+Lumber Ends
+Two by Fours
+3001506
+Catalogues
+3001602
+Beds
+Box Springs
+Bunk Beds
+Futons
+3001448
+Over the Counter Medicines
+Prescription Medicine
+Prescriptions
+3001449
+Mercury
+3001411
+Bowls
+Coffee Mugs
+Dinner Plates
+Plates
+3001492
+Dirty Napkins
+Soiled Napkins
+3001451
+Heroin Needles
+Insulin Needles
+Needles
+Syringes
+3001507
+Paper
+2000435
+5 Star Notebooks 
+Spiral Bound Notebooks
+3001599
+Filing Cabinets
+Office Equipment
+Rolling Chairs
+Shelf
+Shelves
+3001508
+Computer Papers
+Envelopes
+Heat Printed Paper
+Hole Punch Paper
+White Papers
+3001467
+Car Filters
+Filters
+3001552
+Corn Starch Peanuts
+3001444
+Latex Paints
+3001445
+Oil Based Paints
+Oil Paints
+3001612
+Treated Lumber
+Treated Wood
+3001353
+Composite Wood Paneling
+Paneling
+Wood Paneling
+Wood Panels
+3001490
+Disposable Cups
+Disposable Plates
+Dixie Cups
+Hot Cups
+3001494
+Used Paper Towels
+3001520
+Weed Killer Bottle
+3001454
+Weed Killer
+1000102
+Dog Food
+Wet Cat Food
+1000079
+Cat Food Bags
+Dog Food Bags
+Kibble Bags
+1000094
+Cat Litter
+Cat Poop
+Cat Waste
+Dog Poop
+Dog Waste
+Kitty Litter
+Pet Waste
+Poop
+3001509
+White Pages
+Yellow Pages
+1000142
+Photo Paper
+Pictures
+3001621
+Shrubs
+3001624
+4 Inch Pots
+5 Gallon Plant Pot
+Nursery Pots
+Plant Containers
+Plastic Pots
+1000107
+Plastics
+3001515
+1 Gallon Jugs
+Detergent Jugs
+Jugs
+Plastic Jugs
+Pop Bottles
+Screw Top Bottles
+Soda Bottles
+Water Bottles
+3001512
+Beer Pong Cups
+Cups
+Plastic Forks
+Plastic Knives
+Plastic Plates
+Plastic Serviceware
+Sporks
+Plastic Spoons
+Plastic Sporks
+Party Cups
+Red Party Cups
+Solo Cups
+3001516
+Mayonaise Jar
+Plastic Food Jar
+3001564
+Kids Plastic Pool
+Kids Pool 
+Patio Furniture
+Plastic Chairs
+Plastic Furinture
+Plastic Laundry Baskets
+Plastic Totes
+Rigid Plastics
+3001446
+Chlorine
+Spa Chemicals
+1000091
+Toilets
+3001307
+Cast Iron Skillets
+Cooking Pots
+Frying Pans
+Pie Pans 
+Pie Tins
+Pots
+Saucepans
+Skillets
+Wok
+3001527
+Prescription Bottles
+Rx Bottles
+3001576
+Printer Ink
+Toner
+Toner Cartridges
+3001573
+Scanners
+3001405
+Plastic Produce Bags
+Bulk Food Bags
+3001302
+Barbeque Tanks
+BBQ Tanks
+451
+Rechargeable Lithium Ion Battery
+3001611
+Unpainted Wood
+Untreated Wood
+3001348
+Crushed Gravel
+Gravel
+Pea Gravel
+3001349
+Salvagable Materials
+3001321
+Bread Bags
+Ferrous Metal
+Hangers
+Metal
+Metal Bits
+Metal Food Trays
+Metal Pieces
+Metal Scraps
+Tin
+3001326
+Bolts
+Hardware
+Metal Washers
+Nails
+Nuts
+3001528
+Conditioner Bottles
+Lotion Bottles
+Soap Bottles
+3001561
+Case Wrap
+Plastic Film
+3001308
+Forks
+Knives
+Serviceware
+Spoons
+3001607
+Fire Alarms
+Smoke Alarms
+Smoke Detector
+3001296
+Food Cans
+3001577
+Boom Box
+Radio Receivers
+Radio Tuners
+Radios
+Speakers
+Stereos
+Tape Deck
+Tape Player
+3001594
+Stove
+3001547
+Styrofoam
+Styrofoam Packaging
+3001544
+Food Cartons
+Take Out Boxes
+To Go Boxes
+To Go Containers
+3001578
+T.V.
+TVs
+3001605
+Balls
+Bats
+Nets
+Sporting Goods
+Sports Equipment
+3001392
+Food Tubs
+Plastic Food Containers
+Plastic Food Tub
+Plastic Tubs
+Yogurt Containers
+Yogurt Tubs
+3001549
+Utensils
+Kitchen Utensils
+Spatulas
+3001471
+Auto Gas
+Car Chemicals
+Car Fluids
+Car Gas
+Diesel
+Fuel
+Gasoline
+Power Steering Fluid
+Windshield Washer Fluid
+3001465
+Auto Oil
+Automobile Oil
+Car Oil 
+3001413
+Photo Glass
+Picture Frame Glass
+Plate Glass
+Windows
+380
+Clothes Hangers
+Wire Hangers
+2000338
+Clean Wood Waste
+Scrap Wood
+Wood Waste
+3001613
+Wood Shavings
+Sawdust
+Wood Chips
