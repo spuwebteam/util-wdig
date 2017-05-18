@@ -2,6 +2,8 @@
 $white: #fff;
 $black: #000;
 $darkish_red: #e00000;
+$color_very_light_gray: #dee8eb;
+$color_light_blue: #8abad1;
 $color_light_blue_gray: #2e80a0;
 $color_blue_gray: #546E7A;
 $color_dark_blue_gray: #37474F;
@@ -128,9 +130,18 @@ a.btn {
 }
 
 #wdigFooter {
+	.colorBox {
+		background-color: $color_very_light_gray;
+		height: 1em;
+	}
     margin-top: 100px;
     p {
         font-size: 16px;
+        text-align: center;
+        font-style: italic;
+        min-height: 40px;
+        padding: 10px 0;
+        background-color: $color_light_blue;
     }
 }
 

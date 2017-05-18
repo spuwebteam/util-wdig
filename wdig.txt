@@ -87,6 +87,9 @@ Vegetable Bags
 3001537
 Food Bags
 Plastic Food Bags
+503
+Cookie Sheets
+Baking Sheets
 3001287
 Drums 
 Oil Barrels
@@ -280,7 +283,7 @@ Gas Tanks
 Gaskets
 Motors
 1000077
-Cd Players
+CD Players
 Copy MacHines
 CPUs
 Discarded Electronic Devices
@@ -313,7 +316,7 @@ Coconut Oil
 Crisco
 F.O.G.
 Fats
-Fog
+FOG
 Greases
 Oils
 Olive Oil
@@ -377,10 +380,10 @@ Small Gas Cans
 3001491
 Christmas Paper
 Wrapping Paper
-Glass — Broken
+1000075
 Broken Glass
 Pieces of Broken Glass
-Glass Bottles & Jars
+3001370
 Beer Bottles
 Bottles
 Glass Bottles
