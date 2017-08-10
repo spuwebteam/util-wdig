@@ -578,16 +578,12 @@ Glass - Vase
 3001420
 Ammo
 Assault Rifles
-Bottle Rockets
 Bullets
 Shell Casings
 Casings
 Firearms
-Firecrackers
-Fireworks
 Guns
 Handguns
-Mortars
 Munitions
 Pistols
 Revolvers
@@ -596,11 +592,6 @@ Shells
 Shotguns
 Shotgun Shells
 Pellet Guns
-2006766
-Small Gas Cans
-Coleman Gas Cans
-Camping Gas Cans
-Camping Stove Gas Cans
 2006768
 Acetylene Tanks
 Welding Gas Tanks
@@ -610,6 +601,15 @@ Gas Tanks - Welding
 2006769
 Barbeque Tanks
 BBQ Tanks
+2006766
+Small Gas Cans
+Coleman Gas Cans
+Camping Gas Cans
+Camping Stove Gas Cans
+546
+Firecrackers
+Mortars
+Bottle Rockets
 3001459
 Transmission Fluid 
 Hydraulic Fluid
@@ -831,7 +831,6 @@ Foam Boards
 Foam Packaging
 Package Foam
 Packing Foam
-Packing Sheets
 Foam Core
 3001552
 Corn Starch Peanuts
@@ -880,8 +879,7 @@ Conditioner Bottles
 Lotion Bottles
 Soap Bottles
 3001549
-Styrofoam Utensils
-Kitchen Utensils - Styrofoam
+Cups - Styrofoam
 3001547
 Styrofoam
 Styrofoam Packaging
