@@ -8,10 +8,22 @@ Dish Washers
 Dishwashers
 3001592
 Chest Freezer
+Fridges
 Freezers
+3001594
+Electric Stoves
+Gas Stoves
+Electric Ranges
+Gas Ranges
 3001595
 Washing Machines
+Tumble Dryers
+Electric Dryers
+Gas Dryers
 Dryers
+3001596
+Electric Water Heaters
+Gas Water Heaters
 450
 Disposable Batteries
 AA Batteries
@@ -34,7 +46,10 @@ Laptop Batteries
 447
 Mobile Phone Batteries
 449
-Lithium Ion
+Lithium Ion Batteries
+Lithium-Metal Batteries
+Lib
+Li-Ion Batteries
 451
 Rechargeable Lithium Ion Battery
 453
@@ -65,6 +80,7 @@ Sinks - Metal
 Fixtures - Metal
 499
 Fitted Sheets
+Duvet Cover
 Linens
 Pillow Cases
 Sheets
@@ -92,6 +108,7 @@ T-Shirts
 Beds
 Box Springs
 Bunk Beds
+Memory Foam
 Futons
 2006978
 Bikes
@@ -102,17 +119,21 @@ Bike Wheels
 Handlebars
 2006472
 Booster Seats
+Baby Seats
 Car Seats
 Child Booster Seats
 Child Safety Seats 
 Safety Seats
 2006604
-Rubber Hose
+Rubber Hoses
+Garden Hoses
 Hoses
 3001606
 Gas Lawn Mowers
 Gas Mowers
 Mowers
+Hover Mowers
+Rotary Lawn Mowers
 Power Equipment
 Electric Mowers
 Electric Lawn Mowers
@@ -145,11 +166,19 @@ Balls
 Bats
 Nets
 Sporting Goods
+Rackets
+Paddles
 Sports Equipment
 503
 Cookie Sheets
 Baking Sheets
 Cookie Trays
+Trays
+Cake Pans
+Cake Tins
+504
+Tins
+Cookie Containers
 385
 Bowls
 Coffee Mugs
@@ -169,21 +198,26 @@ Xmas Lights
 Light Bulbs - Fluorescent
 Ceiling Lights
 Fluorescent Tubes
+Electric Bulbs - Fluorescent
+Electric Tubes - Fluorescent
 105
 Light Bulbs - Halogen 
 Light Bulbs - Xenon
 Xenon Light Bulbs
+Halogen Light Bulbs
 409
 Light Bulbs - Incandescent 
 2006779
 Light Bulbs - LED 
 3001597
 Ashes
+Charcoal
 Burned Charcoal
 Briquette Ashes
 Fireplace Ashes
 3001598
 Padding
+Rugs
 328
 Cold Packs
 Hot Packs
@@ -200,6 +234,7 @@ Ottomans
 Recliners
 Sectional Couches
 Side Table
+Shoe Racks
 Sofas
 Tables
 3001599
@@ -207,6 +242,7 @@ Filing Cabinets
 Office Equipment
 Office Chairs
 Rolling Chairs
+Desks
 Shelf
 Shelves
 1000101
@@ -224,15 +260,21 @@ Kitty Litter
 Poop
 208
 Printer Ink
-Toner
+Epson Printer Ink
+HP Printer Ink
+Brother Printer Ink
+Dell Printer Ink
 Toner Cartridges
 3001607
 Fire Alarms
 Smoke Alarms
 2006884
-Telephones Landline
+Telephones - Landline
+Handsets
 3001604
 Blinds
+Shades
+Window Shades
 393
 Photo Glass
 Picture Frame Glass
@@ -270,13 +312,17 @@ Salvagable Materials
 3001345
 Asphalt Chunks 
 Torn Up Asphalt
+Pavement
+Cement
 Torn Up Concrete
 3001347
 Planting Soil
 Potting Soil
 Soil
+Garden Soil
 3001346
 Dirt - Contaminated
+Soil - Contaminated
 Contaminated Soil
 3001348
 Crushed Gravel
@@ -301,9 +347,11 @@ Two by Fours
 2 X 4s
 3001353
 Paneling
+Particle Board
 Wood Paneling
 Wood Panels
 3001355
+Twigs
 Sticks
 Branches
 Brush
@@ -312,18 +360,29 @@ Logs
 Tree Clippings
 Tree Branches
 3001356
+Wood Waste - Clean
+Wood - Clean
 Scrap Wood
 Wood Waste
 3001357
+Painted Boards
+Treated Boards
+Sealed Wood
+Varnished Wood
 Treated Lumber
 Painted Wood
 Boards With Nails
 Treated Wood
 3001569
 DVDs
+Compact Discs
 Floppies
 Floppy Disks
 Hard Disks
+3001570
+Smart Phones
+3001571
+Alarm Clocks
 3001574
 Tablet Computer
 Laptops
@@ -335,6 +394,8 @@ Computer Screens
 Used Computer Monitors
 3001575
 Fax Machines
+Copy Machines
+Xerox Machines
 2006400
 Kindles
 1000077
@@ -351,14 +412,15 @@ PCs
 Record Player
 Xerox Machines
 3001577
-Boom Box
+Sound Systems
+Boom Boxes
 Radio Receivers
 Radio Tuners
 Radios
 Speakers
 Stereos
-Tape Deck
-Tape Player
+Tape Decks
+Tape Players
 3001578
 T.V.
 TVs
@@ -366,6 +428,7 @@ TVs
 Video Players
 3001588
 Cloth
+Curtains
 Textiles
 3001438
 Used Cooking Oil
@@ -385,10 +448,13 @@ Used Peanut Oil
 Used Sunflower Oil
 Used Vegetable Oil
 3001582
+Leftovers
+Scraps
 Table Scraps
 Leftover Food
 Food Waste
 2006674
+Multivitamins
 Supplements
 3001358
 Aluminum Sheets
@@ -402,10 +468,13 @@ Potato Chip Bags
 Tortilla Chip Bags
 3001403
 Box Liners
+Food Box Bags
 3001404
 Plastic Bags
 Plastic Grocery Bags
 To Go Bags
+2006735
+Popcorn Bags
 1000106
 Plastics
 1000079
@@ -633,6 +702,8 @@ Craft Chemicals
 3001443
 Auto Oil
 Automobile Oil
+Synthetic Motor Oil
+Engine Oil
 Car Oil 
 3001446
 Chlorine
@@ -699,6 +770,9 @@ Awls
 Claw Hammer
 Hammers
 Needle Nose Pliers
+Tape Measure
+Chisel
+Level
 Pliers
 Roofing Hammer
 Screw Drivers
@@ -846,7 +920,7 @@ CD Cases
 3001566
 Glasses Frames
 3001565
-Cartridges Printer
+Cartridges - Printer
 3001561
 Dry Cleaning Bags
 Plastic Film
@@ -869,6 +943,7 @@ Yogurt Tubs
 Margarine Tubs
 Margarine Containers
 Yogurt Containers
+Plastic Tubs
 Tupperware
 3001527
 Prescription Bottles
