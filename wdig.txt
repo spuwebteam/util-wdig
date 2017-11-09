@@ -3,6 +3,9 @@ AC Unit
 Heat Pumps
 Heating Apparatus
 Air Conditioning Units
+375
+376
+377
 3001591
 Dish Washers
 Dishwashers
@@ -15,6 +18,7 @@ Electric Stoves
 Gas Stoves
 Electric Ranges
 Gas Ranges
+3001593
 3001595
 Washing Machines
 Tumble Dryers
@@ -45,6 +49,7 @@ Watch Batteries
 Laptop Batteries
 447
 Mobile Phone Batteries
+448
 449
 Lithium Ion Batteries
 Lithium-Metal Batteries
@@ -52,6 +57,7 @@ Lib
 Li-Ion Batteries
 451
 Rechargeable Lithium Ion Battery
+452
 453
 Lead Batteries
 Lead-Acid Batteries
@@ -63,6 +69,7 @@ Diapers
 Huggies
 Nappies
 Pull Ups
+2006672
 2006932
 Baby Wipes
 Disposable Wipes
@@ -78,6 +85,9 @@ Tubs - Porcelain
 Tubs - Metal
 Sinks - Metal
 Fixtures - Metal
+378
+379
+3001603
 499
 Fitted Sheets
 Duvet Cover
@@ -161,6 +171,7 @@ Furniture - Plastic
 Laundry Baskets - Plastic
 Totes - Plastic
 Rigid Plastics
+384
 3001605
 Balls
 Bats
@@ -179,6 +190,7 @@ Cake Tins
 504
 Tins
 Cookie Containers
+1000085
 385
 Bowls
 Coffee Mugs
@@ -215,9 +227,11 @@ Charcoal
 Burned Charcoal
 Briquette Ashes
 Fireplace Ashes
+1005027
 3001598
 Padding
 Rugs
+563
 328
 Cold Packs
 Hot Packs
@@ -279,6 +293,7 @@ Window Shades
 Photo Glass
 Picture Frame Glass
 Plate Glass
+3001338
 3001339
 Construction Debris
 Construction Garbage
@@ -291,6 +306,7 @@ Ceiling Panels
 Ceiling Squares
 Ceiling Tiles
 Soundproofing
+3001331
 3001332
 Asphalt Shingles
 Roofing Materials
@@ -309,6 +325,7 @@ Glass Thread
 Furnace Parts
 3001349
 Salvagable Materials
+3001344
 3001345
 Asphalt Chunks 
 Torn Up Asphalt
@@ -338,6 +355,7 @@ Broken Glasses
 Broken Jars
 Glass - Broken
 Pieces of Broken Glass
+3001350
 3001354
 Boards
 Dimensional Lumber
@@ -345,6 +363,7 @@ Cut Lumber
 Lumber Ends
 Two by Fours
 2 X 4s
+3001352
 3001353
 Paneling
 Particle Board
@@ -401,7 +420,6 @@ Kindles
 1000077
 CD Players
 DVD Players
-Copy Machines
 CPUs
 Electronic Waste
 iPhones
@@ -410,7 +428,8 @@ Old Computers
 Old PCs
 PCs
 Record Player
-Xerox Machines
+3001580
+3001573
 3001577
 Sound Systems
 Boom Boxes
@@ -461,6 +480,7 @@ Aluminum Sheets
 Aluminum Trays
 Foil
 Tin Foil
+3001401
 2006690
 Biodegradable Bags
 3001540
@@ -473,6 +493,7 @@ Food Box Bags
 Plastic Bags
 Plastic Grocery Bags
 To Go Bags
+2000337
 2006735
 Popcorn Bags
 1000106
@@ -481,6 +502,7 @@ Plastics
 Cat Food Bags
 Dog Food Bags
 Kibble Bags
+Animal Food Bags
 3001405
 Plastic Produce Bags
 Plastic Food Bags
@@ -492,6 +514,8 @@ Bulk Food Bags
 3001402
 Food Bags
 Food Storage Bags
+Freezer Storage Bags
+Freezer Bags
 3001371
 Caps
 Lids
@@ -503,26 +527,45 @@ Pop Bottles
 Screw Top Bottles
 Soda Bottles
 Water Bottles
+Plastic Bottles
+One-Gallon Jugs
 3001372
 Milk Jugs
 Juice Jugs
 Jugs of Juice
 Jugs of Milk
+Milk Bottles
+Juice Bottles
 2006663
 Carton With Plastic Spout
 Carton With Plastic Top
 Tetra Pak
 Carton With Spout
+Soup Cartons
+Milk Cartons
+Juice Cartons
+3001361
+Margarine Boxes
 3001365
 Cracker Boxes
+Snack Boxes
 2006146
 Egg Cartons - Paper
+Cartons - Eggs
 3001362
 Box for Frozen Food
+TV Dinner Boxes
+Frozen Dinner Boxes
+3001363
+Ice Cream Boxes
+Ice Cream Containers
 2006664
 Sippy Boxes
+Juice Containers
+3001364
 2006469
 Mixed Metal and Cardboard
+Mixed Metal Containers
 Nut Containers
 Nut Canisters
 Potato Chip Canisters
@@ -531,12 +574,25 @@ Coffee Canisters
 Coffee Containers
 2006151
 Berry Baskets - Paper
+Fruit Baskets - Paper
+Strawberry Baskets - Paper
+Blueberry Baskets - Paper
+Blackberry Baskets - Paper
+Raspberry Baskets - Paper
+3001366
+2006665
+Soup Containers
 3001368
 Food Cartons
 Take Out Boxes
 To Go Boxes
 To Go Containers
+To-Go Boxes
+To-Go Containers
+Take-Out Boxes
+2006710
 1000099
+Filters - Coffee
 Used Coffee Filters
 3001407
 Compostable Forks
@@ -573,6 +629,7 @@ Coffee Lids
 Deli Lids
 Soda Lids
 Soft Drink Cup Lids
+1000098
 3001375
 Pressurized Cans
 Spray Cans
@@ -592,15 +649,19 @@ Canned Food
 Boxes - Cardboard
 Moving Boxes
 Packing Boxes
+3001475
 3001379
 Dirty Cardboard
 Greasy Cardboard
 Wet Cardboard
 Solied Cardboard
+3001380
 3001383
 Disposable Cups
 Disposable Plates
 Dixie Cups
+3001388
+487
 1000083
 Plastic Trays
 3001391
@@ -628,6 +689,7 @@ Mayonnaise Jars
 Plastic Jars
 Peanut Butter Jars
 Plastic Food Jars
+3001382
 483
 Car Glass
 Car Window Glass
@@ -661,6 +723,8 @@ Shells
 Shotguns
 Shotgun Shells
 Pellet Guns
+2006765
+2006767
 2006768
 Acetylene Tanks
 Welding Gas Tanks
@@ -679,6 +743,8 @@ Camping Stove Gas Cans
 Firecrackers
 Mortars
 Bottle Rockets
+3001435
+3001436
 3001459
 Transmission Fluid 
 Hydraulic Fluid
@@ -718,6 +784,9 @@ Prescriptions
 Medication
 3001449
 Mercury
+3001450
+3001452
+3001453
 3001451
 Heroin Needles
 Insulin Needles
@@ -735,6 +804,8 @@ Drums
 Oil Barrels
 Oil Drums
 Steel Drums
+3001295
+2007248
 3001305
 Pie Tins
 Pie Plates
@@ -784,6 +855,7 @@ Pendants
 Bracelets
 Rings
 Earrings
+4000325
 3001315
 Aluminum Pans
 Aluminum Scrap
@@ -797,6 +869,7 @@ Precious Metals
 Silver
 3001319
 Steel
+3001320
 3001321
 Ferrous Metal
 Hangers
@@ -806,6 +879,7 @@ Metal Food Trays
 Metal Pieces
 Metal Scraps
 Tin
+3001322
 3001325
 Ring of Keys
 3001326
@@ -832,6 +906,7 @@ Cups - Paper
 Kleenex - Box
 4000368
 Food Wrapper - Paper
+1000141
 2000336
 Kleenexes
 Tissues
@@ -851,8 +926,11 @@ Notepad
 3001489
 Paper Grocery Bags
 Grocery Bags - Paper
+3001493
 3001494
 Used Paper Towels
+3001495
+2006739
 3001498
 Paper Shredded
 3001501
@@ -861,6 +939,7 @@ Textbooks - Hardback
 3001502
 Textbooks - Paperback
 Softcover Books
+2006709
 2006708
 Envelopes - Plastic
 3001504
@@ -871,6 +950,7 @@ Holiday Cards
 Coupons
 3001506
 Catalogues
+3001507
 3001508
 Computer Papers
 Heat Printed Paper
@@ -885,6 +965,7 @@ Photo Paper
 Pictures
 3001536
 Plastic Suit Bag
+3001542
 2006384
 #1 Plastic
 #2 Plastic
@@ -900,6 +981,7 @@ Hard Plastic Packaging
 Molded Plastic Packaging
 Rigid Plastic Packaging
 Toy Plastic Packaging
+3001551
 3001545
 Foam Boards
 Foam Packaging
@@ -937,6 +1019,7 @@ Detergent Jugs
 3001520
 Bug Spray Bottles
 Weed Killer Bottles
+3001525
 506
 Food Tubs
 Yogurt Tubs
@@ -953,6 +1036,7 @@ Rx Bottles
 Conditioner Bottles
 Lotion Bottles
 Soap Bottles
+3001529
 3001549
 Cups - Styrofoam
 3001547
@@ -974,10 +1058,13 @@ Motors
 3001461
 Emergency Flares
 Road Flares
+3001463
+3001467
 3001471
 Car Fluids
 Power Steering Fluid
 Windshield Washer Fluid
+3001468
 3001470
 Cars
 SUVs
